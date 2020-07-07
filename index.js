@@ -17,10 +17,7 @@ function constructItem(itemName = "misc-item")
     </div>
   </li>`;
 }
-function renderItems()
-{
 
-}
 function main()
 {  
     
